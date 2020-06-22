@@ -6,8 +6,7 @@ Author: Tammy Ip
 
 Links and Resources (see below)
 submission PR: `https://github.com/tammyip-401-advanced-javascript/lab24/pull/1`
-Sandbox: `https://codesandbox.io/s/4t0qr`
-Netlify: `https://lab23.netlify.app/`
+Netlify: `https://lab24.netlify.app/`
 
 
 Documentation
